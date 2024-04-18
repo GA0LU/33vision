@@ -1,4 +1,4 @@
-🌟 README for 33vision Ad Manager 🌟
+#🌟 README for 33vision Ad Manager 🌟
 🚀 Introduction
 33vision Ad Manager is designed specifically for Raspberry Pi devices to automate the management and update of video advertisements on in-store display screens. This tool ensures that content is always fresh and displayed efficiently by monitoring the system in real-time and automatically cleaning up unnecessary hidden files.
 
