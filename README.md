@@ -37,7 +37,7 @@
 2. **Run the script**:
    Navigate to the project directory and run the main script:
    ```bash
-   cd 33vision-ad-manager
+   cd 33vision
    chmod +x start-eom.sh
    ./start-eom.sh
    ```
