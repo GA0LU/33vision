@@ -31,7 +31,7 @@
 1. **Download the project**:
    Clone the repository to your Raspberry Pi:
    ```bash
-   git clone https://github.com/yourusername/33vision-ad-manager.git
+   git clone https://github.com/yourusername/33vision.git
    ```
 
 2. **Run the script**:
